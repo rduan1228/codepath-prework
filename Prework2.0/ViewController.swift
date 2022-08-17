@@ -21,8 +21,10 @@ class ViewController: UIViewController {
         
     }
     @IBAction func ChangeBackground(_ sender: Any) {
-        
+        view.backgroundColor = .blue;
+
     }
+    
     
     @IBAction func Bye(_ sender: Any) {
         self.TextLabel.text = "Goodbye!👋";
