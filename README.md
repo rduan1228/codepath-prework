@@ -1,12 +1,10 @@
 ## NAME_OF_YOUR_APP_HERE
 
 ### App Description
-`TODO://` Add app description
+This is the prework for codepath. In the app, you can change text color, say goodbye, or change background color!
 
 ### App Walk-though
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91286680/185012950-722c6852-a7ee-4c4b-9d3a-11ffbfe21797.gif)
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
